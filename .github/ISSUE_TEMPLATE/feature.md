@@ -6,6 +6,9 @@ labels: enhancement, needs-triage
 type: Feature
 ---
 
+**TL;DR:** 
+<!-- One sentence. Example: Autosave, so players don't lose progress after a crash. -->
+
 - [ ] I searched existing issues and this isn't a duplicate
 
 ## What problem does it solve?
@@ -19,6 +22,13 @@ type: Feature
 ## How do we know it's done?
 - [ ] 
 - [ ] 
+
+## Priority (your opinion)
+<!-- Keep one line, delete the rest -->
+- v0: Must have. The first version can't ship without it.
+- v1: Should have. Next version, after v0 ships.
+- v2: Nice to have. Later, if there's time.
+- vX: Future. Good idea, out of scope for now.
 
 ## Anything else?
 <!-- Mockups, references, links -->
