@@ -1,0 +1,37 @@
+name: 🐞 Bug
+description: Something is broken or doesn't work as it should
+title: "[Bug]: "
+type: Bug
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      placeholder: When I open the inventory, the game freezes.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Start a new game
+        2. Press I
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+      placeholder: The inventory opens.
+  - type: input
+    id: where
+    attributes:
+      label: Version and device
+      placeholder: Build 0.3.1, Windows 11 / Chrome on Android
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots, video or logs
+      description: Drag files here.
