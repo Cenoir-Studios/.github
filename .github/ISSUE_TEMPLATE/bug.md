@@ -6,14 +6,17 @@ labels: bug, needs-triage
 type: Bug
 ---
 
-**TL;DR:** 
+## TL;DR
 <!-- One sentence. Example: The game freezes when I open the inventory. -->
 
-**Area:** 
+
+## Area
 <!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
 
-**Related:** 
+
+## Related
 <!-- Links to issues, PRs or docs. Example: #12 -->
+
 
 - [ ] I searched existing issues and this isn't a duplicate
 

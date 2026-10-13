@@ -6,14 +6,17 @@ labels: enhancement, needs-triage
 type: Feature
 ---
 
-**TL;DR:** 
+## TL;DR
 <!-- One sentence. Example: Autosave, so players don't lose progress after a crash. -->
 
-**Area:** 
+
+## Area
 <!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
 
-**Related:** 
+
+## Related
 <!-- Links to issues, PRs or docs. Example: #12 -->
+
 
 - [ ] I searched existing issues and this isn't a duplicate
 

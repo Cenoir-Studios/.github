@@ -6,17 +6,21 @@ labels: idea, needs-triage
 type: Feature
 ---
 
-**It should have:** 
+## It should have
+<!-- Example: Autosave -->
 
-**Because:** 
 
-<!-- One or two sentences is enough. Example: It should have autosave, because players lose progress after a crash. -->
+## Because
+<!-- Example: Players lose progress after a crash. -->
 
-**Area:** 
+
+## Area
 <!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
 
-**Related:** 
+
+## Related
 <!-- Links to issues, PRs or docs. Example: #12 -->
+
 
 ## Priority (your opinion)
 <!-- Keep one line, delete the rest -->

@@ -5,14 +5,17 @@ title: ""
 labels: needs-triage
 ---
 
-**TL;DR:** 
+## TL;DR
 <!-- One sentence. Example: Set up a shared folder for concept art. -->
 
-**Area:** 
+
+## Area
 <!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
 
-**Related:** 
+
+## Related
 <!-- Links to issues, PRs or docs. Example: #12 -->
+
 
 ## Details
 <!-- Everything someone needs to understand or do this -->
