@@ -6,32 +6,28 @@ labels: bug, needs-triage
 type: Bug
 ---
 
-## TL;DR
-<!-- One sentence. Example: The game freezes when I open the inventory. -->
+# TL;DR
+- **Issue:** <!-- One sentence. Example: The game freezes when I open the inventory. -->
+- **Severity:** <!-- Blocker, Major, Minor or Cosmetic -->
+- **Priority:** <!-- Which version needs it: v0, v1, v2 or vX (no version yet) -->
+- **Area:** <!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
+- **Related:** <!-- Issues, PRs or docs. Example: #12, or none -->
+
+# Details
+
+## Current behaviour
+<!-- What happens now -->
 
 
-## Area
-<!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
-
-
-## Related
-<!-- Links to issues, PRs or docs. Example: #12 -->
-
-
-- [ ] I searched existing issues and this isn't a duplicate
-
-## What happened?
-<!-- Example: When I open the inventory, the game freezes. -->
+## Expected behaviour
+<!-- What should happen instead -->
 
 
 ## Steps to reproduce
+<!-- We fix bugs faster when we can repeat them -->
 1. 
 2. 
 3. 
-
-## What did you expect?
-<!-- Example: The inventory opens. -->
-
 
 ## Version and device
 <!-- Example: Build 0.3.1, Windows 11 -->
@@ -41,13 +37,8 @@ type: Bug
 <!-- Drag files here -->
 
 
-## Priority (your opinion)
-<!-- Keep one line, delete the rest -->
-- v0: Must have. The first version can't ship without it.
-- v1: Should have. Next version, after v0 ships.
-- v2: Nice to have. Later, if there's time.
-- vX: Future. Good idea, out of scope for now.
-
 ## Workaround
-<!-- If you found a way around it, write it here -->
+<!-- If you found a way around it, or none -->
 
+
+- [ ] I searched existing issues and this isn't a duplicate

@@ -6,25 +6,18 @@ labels: idea, needs-triage
 type: Feature
 ---
 
-## It should have
-<!-- Example: Autosave -->
+# TL;DR
+- **Issue:** <!-- One sentence. Example: It should have autosave. -->
+- **Priority:** <!-- Which version needs it: v0, v1, v2 or vX (no version yet) -->
+- **Area:** <!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
+- **Related:** <!-- Issues, PRs or docs. Example: #12, or none -->
 
+# Details
+<!--
+Why do we need it?
+- What problem does it solve?
+- How does it help or improve the project?
+- Who will benefit?
+A few sentences is enough.
+-->
 
-## Because
-<!-- Example: Players lose progress after a crash. -->
-
-
-## Area
-<!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
-
-
-## Related
-<!-- Links to issues, PRs or docs. Example: #12 -->
-
-
-## Priority (your opinion)
-<!-- Keep one line, delete the rest -->
-- v0: Must have. The first version can't ship without it.
-- v1: Should have. Next version, after v0 ships.
-- v2: Nice to have. Later, if there's time.
-- vX: Future. Good idea, out of scope for now.

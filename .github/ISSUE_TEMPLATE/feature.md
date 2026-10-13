@@ -6,39 +6,30 @@ labels: enhancement, needs-triage
 type: Feature
 ---
 
-## TL;DR
-<!-- One sentence. Example: Autosave, so players don't lose progress after a crash. -->
+# TL;DR
+- **Issue:** <!-- One sentence. Example: Autosave, so players don't lose progress after a crash. -->
+- **Priority:** <!-- Which version needs it: v0, v1, v2 or vX (no version yet) -->
+- **Area:** <!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
+- **Related:** <!-- Issues, PRs or docs. Example: #12, or none -->
 
-
-## Area
-<!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
-
-
-## Related
-<!-- Links to issues, PRs or docs. Example: #12 -->
-
-
-- [ ] I searched existing issues and this isn't a duplicate
+# Details
 
 ## What problem does it solve?
-<!-- Example: Players lose progress when the game crashes. -->
+
+
+## Who will benefit?
+<!-- Players, the team, testers... -->
 
 
 ## What should it do?
-<!-- Example: Autosave every 5 minutes and on every level change. -->
 
 
 ## How do we know it's done?
 - [ ] 
 - [ ] 
 
-## Priority (your opinion)
-<!-- Keep one line, delete the rest -->
-- v0: Must have. The first version can't ship without it.
-- v1: Should have. Next version, after v0 ships.
-- v2: Nice to have. Later, if there's time.
-- vX: Future. Good idea, out of scope for now.
-
 ## Anything else?
 <!-- Mockups, references, links -->
 
+
+- [ ] I searched existing issues and this isn't a duplicate

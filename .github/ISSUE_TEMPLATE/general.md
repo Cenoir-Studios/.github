@@ -5,26 +5,12 @@ title: ""
 labels: needs-triage
 ---
 
-## TL;DR
-<!-- One sentence. Example: Set up a shared folder for concept art. -->
+# TL;DR
+- **Issue:** <!-- One sentence. Example: Set up a shared folder for concept art. -->
+- **Priority:** <!-- Which version needs it: v0, v1, v2 or vX (no version yet) -->
+- **Area:** <!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
+- **Related:** <!-- Issues, PRs or docs. Example: #12, or none -->
 
-
-## Area
-<!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
-
-
-## Related
-<!-- Links to issues, PRs or docs. Example: #12 -->
-
-
-## Details
+# Details
 <!-- Everything someone needs to understand or do this -->
-
-
-## Priority (your opinion)
-<!-- Keep one line, delete the rest -->
-- v0: Must have. The first version can't ship without it.
-- v1: Should have. Next version, after v0 ships.
-- v2: Nice to have. Later, if there's time.
-- vX: Future. Good idea, out of scope for now.
 
