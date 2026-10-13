@@ -12,6 +12,12 @@ type: Feature
 
 <!-- One or two sentences is enough. Example: It should have autosave, because players lose progress after a crash. -->
 
+**Area:** 
+<!-- Gameplay, UI, Art, Audio, Website, Build, Docs, Other -->
+
+**Related:** 
+<!-- Links to issues, PRs or docs. Example: #12 -->
+
 ## Priority (your opinion)
 <!-- Keep one line, delete the rest -->
 - v0: Must have. The first version can't ship without it.
