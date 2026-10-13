@@ -1,5 +1,5 @@
 ---
-name: 💡 Idea
+name: Idea
 about: '"It should also have X"'
 title: "[Idea]: "
 labels: idea, needs-triage

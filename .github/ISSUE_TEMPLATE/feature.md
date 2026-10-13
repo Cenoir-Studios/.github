@@ -1,5 +1,5 @@
 ---
-name: ✨ Feature
+name: Feature
 about: A worked-out feature, ready to plan. For a quick thought, use Idea.
 title: "[Feature]: "
 labels: enhancement, needs-triage

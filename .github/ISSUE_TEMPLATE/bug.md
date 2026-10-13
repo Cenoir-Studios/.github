@@ -1,5 +1,5 @@
 ---
-name: 🐞 Bug
+name: Bug
 about: Something is broken or doesn't work as it should
 title: "[Bug]: "
 labels: bug, needs-triage
